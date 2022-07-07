@@ -1,2 +1,2 @@
 # skripsi
-Bag Classificatiomn
+Bag Classification
